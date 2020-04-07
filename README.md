@@ -13,4 +13,14 @@ The data collection is made anonymous by using the **UUID** of each phone, this 
 **NOTE: This is server part of the project. For app part visit the [app](https://github.com/migastone/pathtracer-app "app") repository.**
 
 ----------------------------------------------------------------------------
+![Clients](https://github.com/migastone/pathtracer-server/raw/master/docs_images/clients.png)
+
+![Devices](https://github.com/migastone/pathtracer-server/raw/master/docs_images/devices.png)
+
+![Ledgers](https://github.com/migastone/pathtracer-server/raw/master/docs_images/ledgers.png)
+
+![Ledgers Filtered](https://github.com/migastone/pathtracer-server/raw/master/docs_images/ledgers_filtered.png)
+
+![Registration Settings](https://github.com/migastone/pathtracer-server/raw/master/docs_images/registration_settings.png)
+
 ![App Status Screenshots](https://github.com/migastone/pathtracer-server/raw/master/docs_images/app_statuses.png)
