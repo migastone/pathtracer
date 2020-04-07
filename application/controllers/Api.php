@@ -2,14 +2,14 @@
 defined( 'BASEPATH' ) OR exit( 'No direct script access allowed' );
 
 /**
- * @property Response_model    response_model
- * @property Client_model      client_model
+ * @property Response_model    	response_model
+ * @property Client_model      	client_model
+ * @property Settings_model     settings_model
+ * @property Device_model       device_model
+ * @property Ledger_model       ledger_model
  */
 class Api extends CI_Controller {
 
-	//-----------------------------//
-	// f i e l d s//
-	//-----------------------------//
 	const API_VERSION = '1.0.0';
 	const TOKEN_KEY = 'o4FLb6OWVq6vXgaes1zNS0NDKhQM44';
 
@@ -79,22 +79,6 @@ class Api extends CI_Controller {
 		}
 	}
 	
-	/**
-	 * Index Page for this controller.
-	 *
-	 * Maps to the following URL
-	 *        http://example.com/index.php/welcome
-	 *    - or -
-	 *        http://example.com/index.php/welcome/index
-	 *    - or -
-	 * Since this controller is set as the default controller in
-	 * config/routes.php, it's displayed at http://example.com/
-	 *
-	 * So any other public methods not prefixed with an underscore will
-	 * map to /index.php/welcome/<method_name>
-	 *
-	 * @see https://codeigniter.com/user_guide/general/urls.html
-	 */
 	public function index() {
 		return $this->response_model->data( [
 			'status'  => 'Virus Path Tracer API Running' ,
