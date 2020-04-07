@@ -30,13 +30,13 @@ Technical Details
 
 ## Installation
 
-The API server is developed in [`Codeigniter`](https://codeigniter.com/ "`Codeigniter`") which is a popular [`PHP`](https://www.php.net/ "`PHP`") framwork. So the installation guidelines are the same as [`Codeigniter's Installation`](https://codeigniter.com/user_guide/installation/index.html "`Codeigniter's Installation`").
+The API server is developed in [`Codeigniter`](https://codeigniter.com/ "`Codeigniter`") which is a popular [`PHP`](https://www.php.net/ "`PHP`") framework. So the installation guidelines are the same as [`Codeigniter's Installation`](https://codeigniter.com/user_guide/installation/index.html "`Codeigniter's Installation`").
 
 The database file is included in the repository root with the name of `apivirus_db.sql`. The sample user is also included in the `users` table with the following credentials:
 
 ```text
 Email: demo@domain.com
-Passwod: demo123
+Password: demo123
 ```
 The main controller of the app which receives API calls from the mobile app is located under `application/controllers` with the name `Api.php`.
 
