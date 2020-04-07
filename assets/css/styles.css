@@ -1,0 +1,17 @@
+.v-align-center{
+	text-align:center;
+	vertical-align:middle !important;
+}
+
+.v-align-middle{
+	vertical-align:middle !important;
+}
+
+#form_opening_hours select { 
+	width: 50%; 
+	box-sizing: border-box;  
+}
+
+.admin-template {
+	width: 50% !important;
+}

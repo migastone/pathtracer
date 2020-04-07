@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "test"
+AuthUserFile "/home/devtake/.htpasswds/public_html/application/test/passwd"
+require valid-user
