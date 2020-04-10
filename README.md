@@ -1,7 +1,7 @@
 Virus Path Tracer &middot; [API Server]
 ===========================================================================
 
-[![](https://d1aettbyeyfilo.cloudfront.net/migastone/3216354_1548953319823Logo_Migastone_blue400px.png)](https://www.migastone.com/)
+[![](https://github.com/migastone/pathtracer-app/raw/master/docs_images/logo.jpg)](https://www.migastone.com/)
 
 -------------------------------------------------------------------------------
 Path tracer is an *App* for **iPhone** and **Android** useful to trace and analyze the interaction of people during a time frame of *past 30 days*.
