@@ -53,6 +53,3 @@ The `Api.php` controller mostly relies on 3 main `models` which includes:
 + `ledger_model.php`
 
 The `ledger_model.php` contains the most important functions of the API which includes `getPositionsAndDaysByDeviceId( $device_id )` and `getWarning( $device )`.
-===========================================================================
-
-Project developed from MIGAWIN SRL - SAN MARINO ([www.migawin.com](https://www.migawin.com "www.migawin.com"))  a technological startup founded from [Migastone](https://www.migastone.com/ "Migastone")
